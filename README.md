@@ -1,5 +1,8 @@
 # Sockeye-Notes
 
+## Docuemntation
+The link to the actual docuemntation is kept on: https://confluence.it.ubc.ca/display/UARC/UBC+ARC+Technical+User+Documentation.
+
 ## Setup
 Before you actually get started with anything related to Sockeye, you'll need to ensure that you have UBC myVPN client set up as well methods for SSC and SCP/SFTP.
 
