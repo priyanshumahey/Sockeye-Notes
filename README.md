@@ -48,6 +48,7 @@ conda config --add channels conda-forge
 ``` 
 Note: may have to try: ```module load miniconda3/4.9.2```
 
+If Conda creates an issue, you may need to remove channels using: conda config --remove channels NAMEOFCHANNEL
 
 Create a venv
 ``` shell
