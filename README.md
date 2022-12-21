@@ -61,6 +61,10 @@ Once activated, you can download whatever you want in the virtual environment.
 conda install <package_name>
 ```
 
+To deactivate, use 
+``` shell
+conda deactivate
+```
 
 ## Pytorch
 ``` shell
